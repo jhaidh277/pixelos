@@ -8,6 +8,5 @@ git clone https://github.com/mdnoyon80123/hotdogb_local_manifest --depth 1 -b in
 /opt/crave/resync.sh
 
 source build/envsetup.sh
-breakfast hotdogb userdebug
-
+lunch pixelos_hotdogb-trunk_staging-userdebug
 m pixelos
